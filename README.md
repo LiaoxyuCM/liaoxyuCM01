@@ -1,4 +1,4 @@
-[Show my talent!](https://liaoxyucm.github.io/liaoxyuCM01/)
+[Show my talent! (Chinese) ](https://liaoxyucm.github.io/liaoxyuCM01/)
 Welcome to my website!
 
 Massively by HTML5 UP
