@@ -1,5 +1,11 @@
-[Show my talent! (Chinese) ](https://liaoxyucm.github.io/liaoxyuCM01/)
-Welcome to my website!
+my website
+
+[Chinese（developed）](https://liaoxyucm.github.io/liaoxyuCM01/)
+
+English（developing）
+
+------------------------------------------------
+### Html5up's readme
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
