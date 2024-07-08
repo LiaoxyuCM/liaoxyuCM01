@@ -7,7 +7,17 @@
 		<link rel="stylesheet" href="./index_files/main.css">
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
-	<body class="">
+	<body class="">、
+		<script>
+			function displayDate() {
+				var currentDate = new Date();
+				var dateString = currentDate.toDateString();
+				document.getElementById("date").innerHTML = dateString;
+			}
+			window.onload = function() {
+				displayDate();
+			}
+		</script>
 
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
@@ -16,6 +26,7 @@
 					<div id="intro" class="hidden">
 						<h1>这是<br>Liaoxyu的网站</h1>
 						<p>一个小学生用零散时间开发的网站</p>
+						<p id="date"></p>
 						<ul class="actions">
 							<li><a href="https://liaoxyucm.github.io/liaoxyuCM01/#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
