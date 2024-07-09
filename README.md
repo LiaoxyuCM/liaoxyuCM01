@@ -1,13 +1,9 @@
-# AHH! core bug fixed
-
-my website
-
-[Chinese（developed）](https://liaoxyucm.github.io/liaoxyuCM01/)
+[中文（搭建完成）](https://liaoxyucm.github.io/liaoxyuCM01/)
 
 English（developing）
 
 ------------------------------------------------
-### Html5up's readme
+### Html5up的自述
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
