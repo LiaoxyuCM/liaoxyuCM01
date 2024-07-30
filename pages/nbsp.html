@@ -27,8 +27,9 @@
 					<nav id="nav">
 						<ul class="links">
 							<li><a href="https://liaoxyucm.github.io/liaoxyuCM01/">index</a></li>
-							<li class="active"><a href="generic.html">generic</a></li>
+							<li><a href="generic.html">generic</a></li>
 							<li><a href="elements.html">elements</a></li>
+							<li class="active">&nbsp;</li>
 						</ul>
 					</nav>
                                        <!-- Main -->
@@ -40,6 +41,17 @@
 									<!-- header -->
 								</header>
                                                                 <!-- body -->
+								<p style="color: #12a182;">输入格式:&nbsp;r,g,b</p>
+								<script>
+									function checkInput(){
+										var inputContent = document.getElementById('inputPassword').value;
+										if (inputContent = '18,161,130') {
+											window.location.replace('https://hmpg.net/');
+										}
+									}
+								</script>
+								<input type="text" id="inputPassword" placeholder="输入10字，可解开">
+								<button onclick="checkInput()">检查</button>
 							</section>
 
 					</div>
