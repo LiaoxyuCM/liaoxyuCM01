@@ -4,14 +4,6 @@ English（developing）
 
 ------------------------------------------------
 
-### 网站声明
-
-仅在ｇｉｔｈｕｂ上发布，仅使用账号LiaoxyuCM发布；未经本人授权，不可抄袭、转载（本人bilibili UID: 3546720162023654，邮箱：liaoxyu2023-01@outlook.com可提供授权），<strong>重点警告CSDN</strong>。
-
-如果进入后发现无法访问，那么<strong>多试几次</strong>
-
-------------------------------------------------
-### Html5up的自述
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
