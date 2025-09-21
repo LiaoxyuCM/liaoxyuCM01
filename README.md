@@ -1,11 +1,10 @@
-[中文（搭建完成）](https://liaoxyucm.github.io/liaoxyuCM01/)
+## News
 
-English（developing）
+This program has already stopped updating,
+and the website has unpublished.
 
-------------------------------------------------
 
-
-Massively by HTML5 UP
+## Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -37,3 +36,4 @@ Other:
 	[jQuery](jquery.com)
 	[Scrollex](github.com/ajlkn/jquery.scrollex)
 	[Responsive Tools](github.com/ajlkn/responsive-tools)
+
